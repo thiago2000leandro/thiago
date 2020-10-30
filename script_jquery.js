@@ -1,0 +1,120 @@
+
+$(function(){
+$('#btnhobbies').click(function(){
+	$('#divhobbies').show();
+	$('#textofamilia').show();
+	$('#lucifer').show()
+	$('#imgamong').show();
+	$('#textoamong').show();
+	$('#divfilmes').hide();
+	$('#textoaorigem').hide();
+	$('#imgliga').hide();
+	$('#textoliga').hide();
+	$('#divimgviagens').hide()
+	$('#textocaldas').hide()
+	$('#divimgteen').hide()
+	$('#textoteen').hide()
+	$('#imgaong2').hide();
+	$('#textogame1').hide();
+	$('#divlol').hide();
+	$('#textolol').hide();
+	$('#passarinhos').hide();
+	$('#textomusica').hide();
+	$('#nos').hide();
+});
+$('#btnfilmes').click(function(){
+	$('#divfilmes').show();
+	$('#textoaorigem').show();
+	$('#imgliga').show();
+	$('#textoliga').show();
+	$('#divhobbies').hide();
+	$('#textofamilia').hide();
+	$('#lucifer').hide()
+	$('#imgamong').hide();
+	$('#textoamong').hide();
+	$('#divimgviagens').hide()
+	$('#textocaldas').hide()
+	$('#divimgteen').hide()
+	$('#textoteen').hide()
+	$('#imgaong2').hide();
+	$('#textogame1').hide();
+	$('#divlol').hide();
+	$('#textolol').hide();
+	$('#passarinhos').hide();
+	$('#textomusica').hide();
+	$('#nos').hide();
+});
+$('#btnviagens').click(function(){
+	$('#divfilmes').hide();
+	$('#textoaorigem').hide();
+	$('#imgliga').hide();
+	$('#textoliga').hide();
+	$('#divhobbies').hide();
+	$('#textofamilia').hide();
+	$('#lucifer').hide()
+	$('#imgamong').hide();
+	$('#textoamong').hide();
+	$('#divimgviagens').show()
+	$('#textocaldas').show()
+	$('#divimgteen').show()
+	$('#textoteen').show()
+	$('#imgaong2').hide();
+	$('#textogame1').hide();
+	$('#divlol').hide();
+	$('#textolol').hide();
+	$('#passarinhos').hide();
+	$('#textomusica').hide();
+	$('#nos').hide();
+	
+});
+$('#btngames').click(function(){
+	$('#divfilmes').hide();
+	$('#textoaorigem').hide();
+	$('#imgliga').hide();
+	$('#textoliga').hide();
+	$('#divhobbies').hide();
+	$('#textofamilia').hide();
+	$('#lucifer').hide()
+	$('#imgamong').hide();
+	$('#textoamong').hide();
+	$('#divimgviagens').hide()
+	$('#textocaldas').hide()
+	$('#divimgteen').hide()
+	$('#textoteen').hide()
+	$('#imgaong2').show();
+	$('#textogame1').show();
+	$('#divlol').show();
+	$('#textolol').show();
+	$('#passarinhos').hide();
+	$('#textomusica').hide();
+	$('#nos').hide();
+	
+	
+});
+$('#btnmusicas').click(function(){
+	$('#divfilmes').hide();
+	$('#textoaorigem').hide();
+	$('#imgliga').hide();
+	$('#textoliga').hide();
+	$('#divhobbies').hide();
+	$('#textofamilia').hide();
+	$('#lucifer').hide()
+	$('#imgamong').hide();
+	$('#textoamong').hide();
+	$('#divimgviagens').hide()
+	$('#textocaldas').hide()
+	$('#divimgteen').hide()
+	$('#textoteen').hide()
+	$('#imgaong2').hide();
+	$('#textogame1').hide();
+	$('#divlol').hide();
+	$('#textolol').hide();
+	$('#passarinhos').show();
+	$('#textomusica').show();
+	$('#nos').show();
+	
+	
+	
+});
+
+})
